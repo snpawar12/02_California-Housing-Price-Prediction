@@ -46,3 +46,10 @@ Standardize training and test datasets.
 - Perform Linear Regression to predict housing values based on median_income.
 - Predict output for test dataset using the fitted model.
 - Plot the fitted model for training data as well as for test data to check if the fitted model satisfies the test data.
+
+**TOOLS USED:-** 
+• Programming Language : Python
+• IDE : Jupyter Notebook
+
+**Author:** 
+Sneha Pawar
